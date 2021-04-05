@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ciclo de Vida</string>
+    <string name="textoTelaPrincipal">Tela Principal</string>
+    <string name="textoNovaActivity">Segunda Tela</string>
+    <string name="btnNovaActivity">Abrir a Segunda Tela</string>
+    <string name="btnFechar">Fechar</string>
+    <string name="textoEndereco">Endereço</string>
+    <string name="btnChrome">Navegador</string>
+</resources>
